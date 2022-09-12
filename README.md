@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Aazar, a software engineer with 6+ years of experience in solving complex problems and designing scalable solutions who holds a global rank 1 on HackerRank in Python.
+
+Currently I work in Nykaa (Nykaa.com)
+
 <!--
 **44za12/44za12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
