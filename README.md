@@ -2,7 +2,7 @@
 
 I am Aazar, a software engineer with 6+ years of experience in solving complex problems and designing scalable solutions who holds a global rank 1 on HackerRank in Python.
 
-Currently I work in Nykaa [Nykaa](https://www.nykaa.com) as a Senior Software Engineer where I take on the most revenue impacting problems and design a solution for them.
+Currently I work in [Nykaa](https://www.nykaa.com) as a Senior Software Engineer where I take on the most revenue impacting problems and design a solution for them.
 
 I am finally trying my hands at C++ which is quite new for me given my lifelong dependency on Python which slighly changed around 2 years back when I started with Golang, Java and Javascript too. So far it's going great however.
 
